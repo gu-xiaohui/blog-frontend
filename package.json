@@ -1,0 +1,19 @@
+{
+  "name": "gridsome-case",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "dev": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "bootstrap": "^4.5.2",
+    "markdown-it": "^11.0.1",
+    "@fortawesome/fontawesome-free": "5.13.0",
+    "@gridsome/transformer-remark": "0.6.3",
+    "@gridsome/source-filesystem": "0.6.2",
+    "@gridsome/source-strapi": "0.2.0",
+    "axios": "^0.20.0"
+  }
+}
